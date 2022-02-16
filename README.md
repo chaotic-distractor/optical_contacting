@@ -13,10 +13,15 @@ The general idea is to
 
 "All of the contacting was performed in a relatively dusty laboratory. A number of successful contacts were achieved where up to two or three visible pieces of dust could be seen. These were clearly visible due to refraction patterns between the optic and bench. On a number of optics, the final step of dropping isopropyl between the surfaces was repeated until a successful contact was achieved." [1]
 
+# Methods to improve contact
+Heating or annealing the surfaces can improve contact strength.
+(Add more from [4])
+
 # Sources:
 [1] https://ntrs.nasa.gov/api/citations/19850002511/downloads/19850002511.pdf
 [2] https://en.wikipedia.org/wiki/Optical_contact_bonding
 [3] Jean-Jacques Ferme "Optical contacting", Proc. SPIE 5252, Optical Fabrication, Testing, and Metrology, (26 February 2004); https://doi.org/10.1117/12.514265
+[4] https://dcc.ligo.org/LIGO-T1700203/public
 
 # Non-used, but related sources for future reference:
 
