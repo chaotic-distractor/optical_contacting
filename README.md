@@ -13,14 +13,23 @@ The flow of heat is also a good measure of effective contact area because the la
 
 # How is optical contacting achieved in the labratory?
 First, the surfaces must obviously be polished. Surface roughness is given as λ/X RMS, which is the root mean square of a surfaces micrscopic peaks and valleys. The higher the X, the smoother the surface. The various papers had different measures as to what a good X value is. [3] and [4] used 8. [1] was requested to get over 20, and they managed to achieve 40.
-The general idea is to
-1) 
 
-"All of the contacting was performed in a relatively dusty laboratory. A number of successful contacts were achieved where up to two or three visible pieces of dust could be seen. These were clearly visible due to refraction patterns between the optic and bench. On a number of optics, the final step of dropping isopropyl between the surfaces was repeated until a successful contact was achieved." [1]
+The process of pushing two surfaces together to connect them through molecular bonds is known as "ansprengen." [2][4] The general idea for the procedure is:
+
+1) Polish the surfaces
+
+2) Clean the surfaces
+
+3) Place the surfaces together
+
+4) (Optional) Apply heat, pressure, etc.
+
+5) Achieve a bond between the surfaces
+
+The smoothness and cleanliness will both be tested during the procedure. In one case, isopropyl was repeatedly dropped between the surfaces until contact was achieved. [1]
 
 # Methods to improve contact
-Heating or annealing the surfaces can improve contact strength.
-(Add more from [4])
+Heating or annealing the surfaces have been shown to improve contact strength. However, further research needs to be done to explore how to optimize. [4]
 
 # Sources:
 [1] https://ntrs.nasa.gov/api/citations/19850002511/downloads/19850002511.pdf
