@@ -1,8 +1,29 @@
 REMINDER: USB Hot Plate
 
+See original propsal for references directly relating to optical contacting
+
+Tangentially related:
+Effect of van der Waals forces on thermal conductance at the interface of a single-wall carbon nanotube array and silicon (https://doi.org/10.1063/1.4904099):
+The conclusion that it improves thermal conductance may have relevance in regards to heating up the silicon plates for improved optical contacting. 
+
+High accuracy measurement of the residual air gap thickness of thin-film and solid-spaced filters assembled by optical contacting (https://doi.org/10.1016/j.optcom.2005.10.015):
+This describes a potential way to assess the quality of a bond. It also raises a good point about the longevity of the bonds.
+
+
 Silicon 101:
+The Chemistry of Silicon by E.G. Rochow:
+A general introduction to the properties of silicon and silicon-containing molecules. 
+
 
 Van der Waals:
+Van der Waals Forces: A Handbook for Biologists, Chemists, Engineers, and Physcists by V. Adrian Parsegian
+I did not get the chance to read this carefully, but this looks valuable for any general questions on the concept.
+
+Optical contact and van der Waals interactions: the role of the surface topography in determining the bonding strength of thick glass plates (https://iopscience.iop.org/article/10.1088/1464-4258/3/1/314/meta):
+This does a good job of introducing and explained the (speculated) forces behind optical contacting. Specifically, it explains van der Waals forces and their relevance to bonding two surfaces. There’s quite a few valuable references as well.
+
+
+[WIP (adding them as I sort through my bookmarks!)]
 
 Related to 1) strenght:
 
