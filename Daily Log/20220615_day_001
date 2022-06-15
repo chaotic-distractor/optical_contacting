@@ -1,3 +1,4 @@
+Soft wrap :)
 --------------------
 Day 001 - 06/15/2022
 --------------------
@@ -6,6 +7,18 @@ Summary of work accomplished:
 -----------------------------
 
 
+-----------
+Full log:
+-----------
+I read (1) to learn about how they measured shear strength and from is discovered (2).
+I decided to look for some more papers about finding the shear strength. In (3), I learned of a device that is designed for measuring shear strength. If there happens to be a lab on campus with it, it may be nice to use, since it would likely be more precise than anything I could jerry rig.
+Then I found (4), where I learned about die-shear testing, which is for semiconductors, but I think the same principles apply for my optical contacting. The afformentioned device is one such device designed for die-shear testing. I ctrl-f-ed a few more papers that came up when I searched "shear strength direct bonding silicon" and they used the same device/technique. There has to be at least one of these devices on campus, although I don't know the minutiae of how you'd go about finding and gaining access to it.
+
+-------------
+Random notes:
+-------------
+Optical contacting = direct bonding = (historically?) contact bonding
+Should I bring up die shear test? Is it relevant? It would require adherring a smaller piece to a bigger piece, like a circuitboard.
 
 -------
 Papers:
@@ -26,16 +39,3 @@ Mentions a device (4000plus, Nordson DAGE) specifically designed for measuring s
 (4) (SKIMMED) Low-Temperature Bonding of Laser Diode Chips on Silicon Substrates Using Plasma Activation of Au Films
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4390061
 Mentions die-shear strength, which led me to learn about die-shear testing.
-
------------
-Full log:
------------
-I read (1) to learn about how they measured shear strength and from is discovered (2).
-I decided to look for some more papers about finding the shear strength. In (3), I learned of a device that is designed for measuring shear strength. If there happens to be a lab on campus with it, it may be nice to use, since it would likely be more precise than anything I could jerry rig.
-Then I found (4), where I learned about die-shear testing, which is for semiconductors, but I think the same principles apply for my optical contacting. The afformentioned device is one such device designed for die-shear testing. There has to be at least one of these devices on campus, although I don't know the minutiae of how you'd go about finding and gaining access to it.
-
--------------
-Random notes:
--------------
-Optical contacting = direct bonding = (historically?) contact bonding
-Should I bring up die shear test? Is it relevant? It would require adherring a smaller piece to a bigger piece, like a circuitboard.
