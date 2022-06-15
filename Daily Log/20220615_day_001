@@ -1,31 +1,41 @@
 --------------------
 Day 001 - 06/15/2022
 --------------------
-
-Reminder that optical contacting = direct bonding = (historically?) contact bonding
-
 -----------------------------
 Summary of work accomplished:
 -----------------------------
 
 
 
-------------
-Papers read:
-------------
-Reinforced direct bonding of optical materials by femtosecond laser welding
+-------
+Papers:
+-------
+(1) (READ) Reinforced direct bonding of optical materials by femtosecond laser welding
 https://opg.optica.org/ao/fulltext.cfm?uri=ao-51-12-2098&id=232005
 This discusses how laser welding improves the shear strength of direct bonds. I read it in order to see how they measured shear strength, but now I am wondering why we are not using laser welding for this project's application. They also mention mention using optical transmission % to asses bond quality.
 
----------------
-Papers to read:
----------------
-Contact bonding, including direct-bonding in a historical and recent context of materials science and technology, physics and chemistry: Historical review in a broader scope and comparative outlook
+(2) (NEED TO READ) Contact bonding, including direct-bonding in a historical and recent context of materials science and technology, physics and chemistry: Historical review in a broader scope and comparative outlook
 https://www.sciencedirect.com/science/article/pii/S0927796X02000037?via%3Dihub
-(It's very long but looks interesting from a historical persepctive, I want to read it later)
+(It looks really interesting from a historical perspective, but it's too long to read today.
 
+(3) (SKIMMED) Low-temperature direct bonding of diamond (100) substrate on Si wafer under atmospheric conditions
+https://www.sciencedirect.com/science/article/pii/S1359646220305959
+https://www.nordson.com/en/divisions/dage/products/bondtesters/4000plus-bondtester
+Mentions a device (4000plus, Nordson DAGE) specifically designed for measuring shear strength (and other bond qualities).
 
+(4) (SKIMMED) Low-Temperature Bonding of Laser Diode Chips on Silicon Substrates Using Plasma Activation of Au Films
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4390061
+Mentions die-shear strength, which led me to learn about die-shear testing.
 
 -----------
 Full log:
 -----------
+I read (1) to learn about how they measured shear strength and from is discovered (2).
+I decided to look for some more papers about finding the shear strength. In (3), I learned of a device that is designed for measuring shear strength. If there happens to be a lab on campus with it, it may be nice to use, since it would likely be more precise than anything I could jerry rig.
+Then I found (4), where I learned about die-shear testing, which is for semiconductors, but I think the same principles apply for my optical contacting. The afformentioned device is one such device designed for die-shear testing. There has to be at least one of these devices on campus, although I don't know the minutiae of how you'd go about finding and gaining access to it.
+
+-------------
+Random notes:
+-------------
+Optical contacting = direct bonding = (historically?) contact bonding
+Should I bring up die shear test? Is it relevant? It would require adherring a smaller piece to a bigger piece, like a circuitboard.
