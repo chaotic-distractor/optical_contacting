@@ -5,14 +5,21 @@ Day 001 - 06/15/2022
 -----------------------------
 Summary of work accomplished:
 -----------------------------
-
+Read some papers.
+Cannot figure out how to test shear strength.
 
 -----------
 Full log:
 -----------
+1400
 I read (1) to learn about how they measured shear strength and from is discovered (2).
+1500
 I decided to look for some more papers about finding the shear strength. In (3), I learned of a device that is designed for measuring shear strength. If there happens to be a lab on campus with it, it may be nice to use, since it would likely be more precise than anything I could jerry rig.
 Then I found (4), where I learned about die-shear testing, which is for semiconductors, but I think the same principles apply for my optical contacting. The afformentioned device is one such device designed for die-shear testing. I ctrl-f-ed a few more papers that came up when I searched "shear strength direct bonding silicon" and they used the same device/technique. There has to be at least one of these devices on campus, although I don't know the minutiae of how you'd go about finding and gaining access to it.
+1600
+I started roughly planning out how to jerry rig a way to measure shear strength based on (1).
+1700
+I am having trouble with the shear strength jerry rig. I can't figure out how to make it accurate, precise, and feesible to build. I would much prefer if I could just use the die-strength testing device.
 
 -------------
 Random notes:
