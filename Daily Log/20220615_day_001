@@ -20,6 +20,10 @@ Then I found (4), where I learned about die-shear testing, which is for semicond
 I started roughly planning out how to jerry rig a way to measure shear strength based on (1).
 1700
 I am having trouble with the shear strength jerry rig. I can't figure out how to make it accurate, precise, and feesible to build. I would much prefer if I could just use the die-strength testing device.
+I'm going to move on to the light refraction stuff instead.
+1800
+Went on dinner break but not before buying some IR LED transmitter and reciever diodes (they came as a pack) on Amazon. Might not be precise enough, but could be used for laser (more details on paper).
+https://www.amazon.com/Gikfun-Infrared-Emitter-Receiver-Arduino/dp/B01HGIQ8NG/ref=sr_1_6?crid=2CFO8QDRJIRJS&keywords=infrared+led&qid=1655342065&sprefix=infrared+leds%2Caps%2C143&sr=8-6
 
 -------------
 Random notes:
