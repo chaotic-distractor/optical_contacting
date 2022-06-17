@@ -2,20 +2,33 @@ Soft wrap :)
 --------------------
 Day 002 - 06/16/2022
 --------------------
+1. Shear strength 
+2. Index of refraction
+3. Mechanical q 
 -----------------------------
 Summary of work accomplished:
 -----------------------------
+
 
 -----------
 Full log:
 -----------
 1400
+Today I need to figure out if 1) my designs for shear strength and index of refraction are viable 2) figure out the specifications of what I need to order if 
+2000
+I lost track of time and forgot to provide updates. I've been working on trying to figure out how to handle the index of refraction stuff.
 
 
 -------------
 Random notes:
 -------------
+Since finding the mechanical q seemed like the biggest undertaking from a conceptual prespective, I started with finding shear strengtha and index of refraction, but I've hit road blocks with both of them. I have an experiment design and I have a parts list for said design, but I'm not sure how viable that design will be in practice.
 
+
+NEVER MIND IT WOULD BE TOO SMALL (WE'RE TALKING NANO AND PICO METERS)
+Email draft:
+Do you know if it would be possible for me to get access to a bond testing machine? They are usually used for testing the die shear strength of pieces on a circuitboard, but several papers used them for testing the shear strength of direct bonds. The particular machine they used was a Nordson Bondtester, but anything that is capable of performing a die shear test would work. I'm not suggesting we buy one (they're several thousand dollars), but I imagine there has to be at least one already on campus.
+I've come up with a way to test the shear strength without the machine, but I imagine a machine specifically designed for testing shear strength would be far more precise and accurate than anything I could build.
 
 -------
 Papers:
