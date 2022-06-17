@@ -1,0 +1,33 @@
+Soft wrap :)
+--------------------
+Day 003 - 06/17/2022
+--------------------
+1. Shear strength 
+2. Index of refraction
+3. Mechanical q 
+-----------------------------
+Summary of work accomplished:
+-----------------------------
+
+
+-----------
+Full log:
+-----------
+1300
+I need to get a parts list into Rana and Koji ASAP.
+I THINK I have the shear strength figured out. My biggest concern is the wafer mount, but I'm sure they can help troubleshoot that. I know the OoM of the pieces, so I could probably order some cheaper 10x10x1mm blocks to test fit the mount.
+As for the index of refraction, I realized that my approach would (probably) not work. It could give a realtive measurement, but the difference in distance between the bonded layers would be so minute that I probably could not measure it nor could I extract the index of refraction or thickness from it.
+
+-------------
+Random notes:
+-------------
+
+-------
+Papers:
+-------
+Glass-Glass Direct Bonding
+https://iopscience.iop.org/article/10.1149/06405.0003ecst/meta
+I read this yesterday, but forgot to log it. I needed help trying to figure out the index of refraction stuff, and they measured that in this experiment, but I had trouble understanding what they did.
+
+Ellipsometry of Layered Systems
+https://link.springer.com/chapter/10.1007/978-3-319-75325-6_9
