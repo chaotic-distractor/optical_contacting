@@ -1,0 +1,34 @@
+--------------------
+Day 009 - 06/23/2022
+--------------------
+1. Shear strength 
+2. Index of refraction
+3. Mechanical q 
+---------------------------------------------------
+Summary of work accomplished from days 4 through 8:
+---------------------------------------------------
+Over the weekend I completely forgot that I was keeping a log
+Tried to figured out ellipsometry
+Hit a road block because it's actually super hard
+Started writing the code for mechanical q
+Finally understoond everything about the related paper
+Hit a temporary road block
+Realized how to fix it late last night, still need to implement
+
+---------------------------------------------------
+Summary of work accomplished on day 9:
+---------------------------------------------------
+Tried to estimate the shear strength of van der Waals forces
+Can't find a single paper that's estimated it
+Might be something interesting to figure out at a later date
+Read up on how git repos work
+Cleaned up my git repo
+
+-----
+TODO:
+-----
+Finish moving parts list from latex to git hub markdown file
+
+-------
+Papers:
+-------
