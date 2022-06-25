@@ -1,0 +1,21 @@
+---------
+6/24/2022
+---------
+
+Here is a link to the microscope slides:
+
+I got to see the Electronics shop and the hotplate. I don't have a key to get in there, but I've requested one, which I should get by Monday.
+
+---
+
+Here is a summary of our meeting, per your request last time we met.
+
+We discussed what physically is the index of refraction.
+
+We both agreed that my design for finding shear strength is reasonable, but you pointed out that, while it works in theory, mounting a small, fragile object is difficult, so I should think some more about how to go about that.
+
+You told me to send you a link to order microscope slides (see above) since it is easier to practice with them than silicon.
+
+We discussed the actual procress of optical contacting, including how things should be layered on top of the hot plate and how to measure the temperature. The layers are hot plate --> "soft" object (hard plastic, gold foil, etc.) --> temperature measure --> the two wafers --> another temperature measure --> heavy weight. Measuring the temperature will probably involve copper foil (which can also serve as the "soft" object), a thermocoupler, and the Fluke brand hand temperature measurer or hand-held multimeter. For the latter, I'll measure resistance and get temperature from that using a RTD. We also talked about the different step-by-step ways to prep the pieces before bonding, and you suggested I look at a paper "Solution-Assisted Optical Contacting" by Shaddock.
+
+Finally, the big question we need to figure out in the next few weeks is: "What is good enough?" for the bond.
