@@ -8,26 +8,29 @@ Day 013 - 06/27/2022
 ----------------------------------
 Things I want to accomplish today:
 ----------------------------------
-* model the shear strength apparatus
-  * need to design
-    * beam balance
-    * thing to attach weights to
-    * sample mount
-    * a way of hooking the sample mount to the table
-  * maybe try making part of the sample mount for 3D printing
-    * how will I protect the fragile samples?
-* see if I can find that page that explained van der waals forces
-* draw out diagram for index of refraction
-* work on code for mech Q
-* start writing interim report
-* maybe clean up git repo a little more
+▢ model the shear strength apparatus
+  ▢ need to design
+    ▢ beam balance
+    ▢ thing to attach weights to
+    ▢ sample mount
+    ▢ a way of hooking the sample mount to the table
+  🗸 maybe try making part of the sample mount for 3D printing
+    ▢ how will I protect the fragile samples?
+▢ see if I can find that page that explained van der waals forces
+▢ draw out diagram for index of refraction
+▢ work on code for mech Q
+▢ start writing interim report
+▢ maybe clean up git repo a little more
 
 -----------------------------
 Summary of work accomplished:
 -----------------------------
 Bought some microscope slides on Amazon Prime: https://www.amazon.com/dp/B01JEJBG64/
 They'll be used to practice optical contacting and for testing my sample mount design(s)
+Designed the 3D component of the shear strength aparatus, which took a while because I also learned how to use Tinkercad, made an appointment to get trained on the 3D printers, and had to install/figure out the 3D printing software.
 
 -------
 Papers:
 -------
+https://www.sciencedirect.com/science/article/pii/S0001868612000887
+I was hoping this might help with estimating shear strength
