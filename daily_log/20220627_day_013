@@ -1,0 +1,35 @@
+--------------------
+Day 013 - 06/27/2022
+--------------------
+1. Shear strength 
+2. Index of refraction
+3. Mechanical q 
+
+----------------------------------
+Things I want to accomplish today:
+----------------------------------
+* model the shear strength apparatus
+  * need to design
+    * beam balance
+    * thing to attach weights to
+    * sample mount
+    * a way of hooking the sample mount to the table
+  * maybe try making part of the sample mount for 3D printing
+    * how will I protect the fragile samples?
+* see if I can find that page that explained van der waals forces
+* draw out diagram for index of refraction
+* work on code for mech Q
+* start writing interim report
+* maybe clean up git repo a little more
+
+-----------------------------
+Summary of work accomplished:
+-----------------------------
+
+-----
+TODO:
+-----
+
+-------
+Papers:
+-------
