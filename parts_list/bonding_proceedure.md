@@ -37,7 +37,7 @@ I am still a bit confused about these. My understanding is: if I attach the ther
 
 I looked in the Electronics shop to see if I could find any thermocouplers, but there were none there. I also could not find one of the devices that the thermocouples should be hooked to.
 
-**If I cannot get thermocouplers***, I will instead measure the resistance of the foil while it's heating and determine the temperature from that.
+*If I cannot get thermocouplers*, I will instead measure the resistance of the foil while it's heating and determine the temperature from that.
 
 #### (Optional) Hard, plastic rectangles
 
