@@ -2,7 +2,7 @@
 
 ## Prepration process
 
-To be added...
+In the process of adding...
 
 ## Heating process
 
@@ -16,4 +16,8 @@ I will need:
 
 *I will need 3 is if I want to measure the temperature between the samples as well. 
 
-![]()
+![rough design](https://github.com/jhritzCaltech/SURF2022/blob/main/parts_list/bonding_proceedure_graphics/rough_design.jpg?raw=true)
+
+### Size specifications:
+
+In the process of adding...
