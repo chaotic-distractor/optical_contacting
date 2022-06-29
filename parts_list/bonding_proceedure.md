@@ -21,3 +21,7 @@ I will need:
 ### Size specifications:
 
 In the process of adding...
+
+#### Hotplate
+
+The hotplate is made by [Oster](https://www.amazon.com/Oster-CKSTSB100-B-2NP-Adjustable-Temperature-Control/dp/B0082JMCB6). An Amazon customers reports that it can only reach about 100°C. It's 112 mm by 267 mm by 282 mm. My hand is about as long as the plate, which means it's about 150 mm.
