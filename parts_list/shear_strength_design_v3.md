@@ -12,9 +12,9 @@ It works as such:
 
 There is a concern that securing the sample will break it, so I would propose putting some plastic between the glass and the metal, perhaps something that is 3D printed.
 
-3) Set up a push force meter to measure the force against the side of the top half of the sample.
+3) Set up a push force gauge to measure the force against the side of the top half of the sample.
 
-I haven't seen any push meters in the EE shop, but I also haven't looked that hard. I'll look in other labs as well, or we could just order one.
+I haven't seen any force gauges in the EE shop, but I also haven't looked that hard. I'll look in other labs as well, or we could just order one.
 
 4) Push against the side of the top half of the sample until it slips, meanwhile recording the force at which it slips.
 
