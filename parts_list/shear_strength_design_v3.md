@@ -2,7 +2,7 @@
 
 Since my previous designes were infeasible, I tried to come up with a new, simpler apparatus. I was working on my interim report when this design suddenly came to mind.
 
-
+![v3](https://github.com/jhritzCaltech/SURF2022/blob/main/parts_list/shear_strength_graphics/shear_strength_v3.jpg?raw=true)
 
 It works as such:
 
