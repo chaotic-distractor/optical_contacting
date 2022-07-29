@@ -1,0 +1,95 @@
+\documentclass[colorlinks=true,pdfstartview=FitV,linkcolor=blue,
+            citecolor=red,urlcolor=magenta]{ligodoc}
+
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{longtable}
+\usepackage{rotating}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{fancyhdr}
+\usepackage{subfigure}
+\usepackage{hyperref}
+
+\usepackage{appendix}
+
+\title{Methods of Improving Optical Contacting
+
+First Interim Report}
+
+\author{Jennifer Hritz}
+
+\begin{document}
+
+\section{Background} 
+Optical contacting is the phenomenon of bonding very flat, highly polished surfaces together using Van der Waals dispersion forces instead of adhesives. Van der Waals dispersion forces are weak at large distances, but by bringing many atoms and molecules very close together, it makes for an incredibly strong bond. The cleaner and flatter the surface, the closer the atoms and molecules, and therefore the stronger the bonds. To avoid contamination and deviations from flatness, polishing and cleaning are important steps before optically contacting two plates \cite{Wright}.
+
+When performed properly, the bond between the two surfaces is strong enough to effectively merge the two objects into one. The applied force is concentrated at the edge, so while pulling apart the two plates is difficult, the bond can be easily broken by wedging the plates apart at an edge or corner \cite{Rayleigh}. The only other way to destroy this adhesion is through thermal stress, where unequal heating causes thermal expansion to break the closeness of the surfaces \cite{Ferme}. Hence, two ways to test the efficacy of the bond can be tested by determining the tensile strength and measuring heat flow \cite{Wright, Zawada}.
+
+Adding heat and applying pressure have been shown to improve the quality of the bond \cite{Zawada}. Optical contacting could theoretically occur between any two surfaces, but it is typically performed with silicon, or silicon-containing molecules due to its weight and thermal properties.
+
+\section{Motivation} 
+Optical contacting has big uses in space because it produces strong, light bonds without adhesives. When two objects are bonded with adhesives, the bond risks failing due to the adhesive having different chemical and thermal properties. From the bonded objects. Silicon’s small thermal expansion coefficient makes it particularly useful for high sensitivity probes \cite{Wright} including gravitational wave detectors such as LISA and the LIGO Voyager.
+
+However, before optical contacting can be applied in space, it needs to be studied further. The aim of my research is to explore methods of optimizing optical contacting to produce a consistently strong bond. This includes refining previous work which indicated that heat and pressure were instrumental in producing good bonds. If I can produce sufficiently strong bonds, I will proceed to working on their application in the LIGO Voyager. This means I also need to attempt to the answer the question of what is a sufficiently strong bond.
+
+\section{Approach} 
+
+In a sterile environment, I will optically contact first glass slides and later silicon wafers. This involves thoroughly cleaning the surfaces, placing one clean surface over the other at a right angle, and gently pressing to form the bond. I will add weight on top of the sample and apply heat using a hot plate during the bonding process to produce a higher quality bond.
+
+Once the bond has been made, I assess its quality by finding the 1) shear and/or tensile strength 2) thickness of the gap 3) mechanical quality of the bonded objected.
+
+Finding the shear strength involves measuring the amount of parallel force it takes to make the bond slip. This means pushing or pulling on one half of the sample in a controlled manner. In addition to or in replacement of---if finding the shear strength is too difficult---this experiment, I will also find the tensile strength of the bond. This is carried out by carefully wedging a razor blade between the seam of the bond and measuring the gap from the tip of the razor to the edge of the unbroken bond. Straightforwardly, the stronger the shear or tensile strength, the stronger the bond.
+
+Finding the thickness of the gap requires ellipsometry, which is the process of extracting information using the change in polarization when a polarized laser is reflected by a thin film. The wider the gap, the weaker the bond.
+
+Determining the mechanical quality of the bonded object shows bond quality because if the mechanical quality is close to that of solid silicon, the two objects have effectively become one. This will be tested by constructing a tuning fork---an acoustic resonator tuned to a specific note from which pianos are tuned---using optical contacting and testing its resonance. The optically contacted tuning fork will be constructed of two silicon single-crystal silicon wafers attached to the end of another silicon single-crystal silicon wafer in the shape of a tuning fork. The tuning fork is then placed in a vacuum, resonated with electricity, and the vibrations are recorded by a laser.
+
+\section{Progress}
+
+So far, I have spent the bulk of my time designing the experiments. This included doing research on the underlying concepts and looking at similar papers.
+
+For finding the shear strength, I referenced a paper which used stacked weights and a traditional beam balance to apply force parallel to the bond. However, after spending much time designing it, it turned out to not be a viable design. I recently came up with an simpler alternative design which may be usable. I also read up on finding the tensile strength using a razor blade.
+
+For finding the thickness of the gap, I spent most of my time reading up on ellipsometry. This proved to be quite a challenging technique, so I decided to shift my focus to designing the more feasible shear strength apparatus, but I am now working on a draft set up for performing ellipsometry.
+
+For finding the mechanical quality, I now understand the logic behind a similar paper that I was referencing and I was able to start writing code to estimate the dimensions for the tuning fork that will give the most precision and accuracy. I hit a snag related to some con have made progress on the other experiments.
+
+I also designed the set-up for performing the bonding, which includes how I will heat and provide pressure to the sample during the bonding process, and am now working on actually performing optical contacting in the lab.
+
+\section{Challenges}
+
+Designing experiments from scratch under the pressure of needing to order parts ASAP was a big challenge. Not being very familiar with working in a lab and not understanding some of the underlying science added another layer of difficulty. Over the course of the weeks, I have slowly become better at juggling everything that goes into designing experiments.
+
+The issues will likely continue to be a problem until I finish designing all the experiments. Once I am performing the actual experiments, I expect there will be hidden delays that make everything take longer than expected. There also could be issues with the designs seeming to work in theory, but do not work in practice, which means an alternative design will need to be pursued. If time does not permit, I may not be able to complete all of the experiments.
+
+\begin{thebibliography}{9}
+    \bibitem{Wright}
+	  Wright, J. J. & Zissa,
+	  \emph{D. E. OPTICAL CONTACTING FOR GRAVITY PROBE STAR TRACKER}.
+	  14 (1984).    
+      
+    \bibitem{Rayleigh}
+	  Rayleigh, Lord,
+	  \emph{Optical Contact}.
+	  Nature 139, 781–783 (1937).
+	  
+	\bibitem{Ferme}
+	  Ferme, J.-J.,
+	  \emph{Optical contacting}.
+	  in (eds. Geyl, R., Rimmer, D. & Wang, L.) 26 (2004).
+	 
+    \bibitem{Zawada}
+	  Zawada, A.,
+	  \emph{Final Report: In-Vacuum Heat Switch}.
+	  14.
+ 
+\end{thebibliography} %Must end the environment
+
+\end{document} 
+
+\begin{appendices}
+
+\section{test}
+
+\end{appendices}
