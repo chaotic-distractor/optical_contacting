@@ -18,7 +18,7 @@ The .txt files are data I took over the summer. The 3 columns are the time (s), 
 
 I plotted them with some (hastily thrown together) code:
 
-[graphing_heat_data.ipynb](https://github.com/jhritzCaltech/optical_contacting/blob/main/base_hot_plate_timing/graphing_heat_data_v2.ipynb)
+[graphing_heat_data_v2.ipynb](https://github.com/jhritzCaltech/optical_contacting/blob/main/base_hot_plate_timing/graphing_heat_data_v2.ipynb)
 
 Resulting graphs:
 
