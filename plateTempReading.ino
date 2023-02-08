@@ -21,19 +21,25 @@ int thermoDO = 4;
 int thermoCS = 5;
 int thermoCLK = 6;
 
+int thermoDO2 = 8;
+int thermoCS2 = 9;
+int thermoCLK2 = 10;
+
 MAX6675 thermocouple(thermoCLK, thermoCS, thermoDO);
+MAX6675 thermocouple2(thermoCLK2, thermoCS2, thermoDO2);
 
 unsigned long printTemp() {
   delay(1000);
   // Read value
   double value = thermocouple.readFahrenheit();
+  double value2 = thermocouple2.readFahrenheit();
 
   // Get the time point
   unsigned long timeMilliseconds = millis();
 
   // Write the result
   if (Serial.availableForWrite()) {
-    String outstr = String(String(timeMilliseconds, DEC) + "," + String(value, DEC));
+    String outstr = String(String(timeMilliseconds, DEC) + "," + String(value, DEC)+ "," + String(value2, DEC));
     Serial.println(outstr);
   }
 
@@ -49,6 +55,7 @@ void setup() {
 }
 
 void loop() {
+  printTemp();
   // If we're streaming
   if (daqMode == STREAM) {
     if (millis() - timeOfLastDAQ >= daqDelay) {
